@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Harmony Hub</string>
+    
+    <!-- Authentication -->
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_out">Sign out</string>
+    <string name="auth_failed">Authentication failed</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_storage">Storage</string>
+    <string name="nav_checkin">Check-in</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Common -->
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="try_again">Try again</string>
+    <string name="loading">Loading…</string>
+    <string name="required">Required</string>
+    
+    <!-- Permissions -->
+    <string name="permission_rationale_notifications">Notifications permission is needed to alert you about important events</string>
+    <string name="permission_rationale_audio">Audio recording permission is needed for check-in voice messages</string>
+    <string name="permission_rationale_calendar">Calendar permission is needed to sync your co-parenting schedule</string>
+</resources>
