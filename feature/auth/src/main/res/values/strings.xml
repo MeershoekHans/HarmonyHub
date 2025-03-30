@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Auth feature strings -->
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_out">Sign out</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="auth_success">Successfully signed in</string>
+    <string name="profile">Profile</string>
+    
+    <!-- Firebase Authentication web client ID placeholder - will be replaced by actual value from google-services.json -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+</resources>
